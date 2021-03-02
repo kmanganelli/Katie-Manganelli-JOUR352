@@ -1,6 +1,35 @@
+.name {
+  border.bottom.width: 1px;
+  border.bottom.color: #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+}
 
 body {
   font-family: 'Open Sans', arial, sans-serif;
   font-size: 1em;
   color:#444;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.menu {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+}
+
+.degrees {
+  margin-top: 50px;
+}
+
+.do {
+  
 }
