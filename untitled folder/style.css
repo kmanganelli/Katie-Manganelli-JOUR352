@@ -1,4 +1,4 @@
-.name {
+#name {
   border.bottom.width: 1px;
   border.bottom.color: #33485e;
   width: 60%;
@@ -12,11 +12,16 @@ body {
   color:#444;
 }
 
-.container {
+#container {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
   padding-bottom: 50px;
+}
+
+.description {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .menu {
@@ -26,10 +31,31 @@ body {
   display: inline;
 }
 
-.degrees {
+#degrees {
   margin-top: 50px;
 }
 
-.do {
-  
+#do {
+  margin-top: 50px;
+}
+
+#title {
+  font-weight: 600;
+  text-align: center;
+  margin-top: 1200px;
+}
+
+.sectionheader {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 70%;
+  min-width: 300px;
+}
+
+.organization {
+  font-size: 1.25em;
+}
+
+.date {
+  margin-top: 2px;
 }
