@@ -1,0 +1,11 @@
+.content {
+width: 1200px;
+text-align: center;
+}
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
