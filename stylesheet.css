@@ -1,0 +1,81 @@
+#content {
+width: 900px;
+margin: 0 auto;
+}
+
+#masthead {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 70px;
+  text-align: center;
+  color: #661919; /* Dark red text, also sorry for using a bad word but that's the descriptor that she deserves */
+  text-decoration: underline overline;
+  padding-top: 30px;
+}
+
+#byline {
+  text-align: center;
+  color: #433d3d;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: "Times New Roman", serif;
+  font-size: 16px;
+}
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  color: #333333;
+}
+
+
+h4 {
+  color: #8c8c8c;
+  text-align: center;
+}
+
+.images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#personoftheyear {
+  width: 900px;
+  height: 500px;
+  padding-top: 10px;
+}
+
+#pose {
+  width: 800px;
+  height: 500px;
+  padding-top: 10px;
+}
+
+#trophy {
+  width: 450px;
+  height: 700px;
+  padding-top: 10px;
+}
+
+#fan {
+  width: 800px;
+  height: 500px;
+  padding-top: 10px;
+}
+
+blockquote {
+  font-family: 'Bebas Neue', cursive;
+   color: #661919;
+   text-decoration: underline;
+   font-size: 25px;
+}
+
+#related {
+  text-align: center;
+}

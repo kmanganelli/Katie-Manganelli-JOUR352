@@ -1,6 +1,6 @@
 #content {
-width: 1200px;
-text-align: center;
+width: 900px;
+margin: 0 auto;
 }
 
 #masthead {
@@ -8,6 +8,7 @@ text-align: center;
   font-size: 60px;
   padding: 30px;
   color: #262640;
+  text-align: center;
 }
 
 #byline {
