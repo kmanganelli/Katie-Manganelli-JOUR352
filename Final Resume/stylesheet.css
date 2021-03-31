@@ -13,12 +13,16 @@
   height: 250px;
   background-color: #323267;
   padding-top: 30px;
+  text-align: center;
 }
 
 #links {
   font-weight: normal;
-  display: inline;
 }
+
+  a {
+    color: white;
+  }
 
 h1 {
   text-transform: uppercase;
@@ -31,6 +35,7 @@ h2 {
   text-transform: uppercase;
   text-align: center;
 }
+
 #experience {
   text-align: center;
 }
