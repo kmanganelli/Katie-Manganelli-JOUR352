@@ -15,7 +15,6 @@
   font-family: Georgia, serif;
   font-size: 18px;
   color: #000000
-  margin: 0 auto;
   padding-left: 10px;
 }
 
@@ -65,4 +64,19 @@ h6 {
 
 .col-md-4 {
   color: #b32d00;
+}
+
+@media screen and (max-width: 480px) {
+p {
+  font-size: 16px;
+}
+
+.images {
+  max-width: 100%;
+}
+
+ .graphics {
+   max-width: 100%;
+ }
+
 }
