@@ -1,0 +1,55 @@
+#header {
+  width: 100%;
+}
+
+#map {
+  max-width: 1000px;
+}
+
+#container{
+  max-width: 1200px;
+  margin: 0 auto;
+  color: black;
+}
+
+p {
+  font-size: 16px;
+}
+
+h3 {
+  font-family: 'EB Garamond', serif;
+  color: #56545c;
+}
+
+h6 {
+  color: #616161;
+}
+
+blockquote {
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  color: #56545c;
+  font-size: 30px;
+  text-align: center;
+}
+
+#fbc {
+  max-width: 1000px;
+  width: 100%;
+}
+
+#seniors {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#sharpsjones{
+  width: 100%;
+  max-width: 1000px;
+}
+
+#webster {
+  width: 100%;
+  max-width: 1000px;
+}
