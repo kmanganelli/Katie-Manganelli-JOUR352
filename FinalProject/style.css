@@ -4,6 +4,8 @@
 
 #map {
   max-width: 1000px;
+  display: block;
+  margin: 0 auto;
 }
 
 #container{
@@ -13,7 +15,7 @@
 }
 
 p {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 h3 {
@@ -23,33 +25,49 @@ h3 {
 
 h6 {
   color: #616161;
+  text-align: center;
 }
 
 blockquote {
   font-family: 'EB Garamond', serif;
   font-style: italic;
   color: #56545c;
-  font-size: 30px;
+  font-size: 40px;
   text-align: center;
 }
 
 #fbc {
   max-width: 1000px;
   width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 #seniors {
   width: 100%;
   max-width: 1000px;
   margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 }
 
 #sharpsjones{
   width: 100%;
   max-width: 1000px;
+  display: block;
+  margin: 0 auto;
 }
 
 #webster {
   width: 100%;
   max-width: 1000px;
+  display: block;
+  margin: 0 auto;
+}
+
+#home {
+  width: 100%;
+  max-width: 1000px;
+  display: block;
+  margin: 0 auto;
 }
