@@ -71,3 +71,11 @@ blockquote {
   display: block;
   margin: 0 auto;
 }
+
+#readmore {
+  max-width: 500px;
+}
+
+#readmore1 {
+  max-width: 500px;
+}
