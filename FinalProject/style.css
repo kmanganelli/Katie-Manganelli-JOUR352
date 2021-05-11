@@ -72,6 +72,13 @@ blockquote {
   margin: 0 auto;
 }
 
+#flood {
+  width: 100%;
+  max-width: 1000px;
+  display: block;
+  margin: 0 auto;
+}
+
 #readmore {
   max-width: 500px;
 }
